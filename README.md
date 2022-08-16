@@ -1,2 +1,2 @@
 # liceu
-Info Liceu
+:bulb:Info Liceu
